@@ -4,13 +4,13 @@
 using namespace std;
 
 int main() {
-    int nummber1, num2, sum, difference; 
+    int num1, num2, sum, difference; 
     cout << "Введите первое число: ";
-    cin >> nummber1;
+    cin >> num1;
     cout << "Введите второе число: ";
     cin >> num2;
-    sum = nummber1 + num2;
-    difference = nummber1 - num2; 
+    sum = num1 + num2;
+    difference = num1 - num2; 
     cout << "Сумма: " << sum << endl; 
     cout << "Разность: " << difference << endl;
 
