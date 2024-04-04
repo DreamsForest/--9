@@ -2,7 +2,7 @@
 #include "sdt.h"
 
 using namespace std;
-
+//Коментарий
 int main() {
     int nummber1, num2, sum, difference; 
     cout << "Введите первое число: ";
