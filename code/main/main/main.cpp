@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     int nummber1, num2, sum, difference; 
     cout << "Введите первое число: ";
-    cin >> number1;
+    cin >> nummber1;
     cout << "Введите второе число: ";
     cin >> num2;
     sum = nummber1 + num2;
